@@ -110,9 +110,9 @@ TaskManagement/
 │   ├── screens/             # Screens (Tasks, News, Profile)
 │   ├── redux/               # Redux slices, store setup
 │   ├── utils/               # Helper functions and constants
-│   ├── routes/          # Stack and Tab navigators
-|   |── types/               #
-│   └── Context/             # Theme and other contexts
+│   ├── routes/              # Stack and Tab navigators
+|   |── types/               # TypeScript interfaces and type definitions
+│   └── Context/             # Theme and Notification contexts
 ├── App.tsx                  # Root component
 ├── package.json             # Dependencies and scripts
 └── README.md                # Project documentation
