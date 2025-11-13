@@ -7,7 +7,7 @@
 
 ## Overview
 
-QuickTask is a **React Native CLI app** for task management with a news feed. Users can create, edit, and delete tasks, set reminders using local notifications, and view news from NewsAPI. Tasks persist locally using AsyncStorage.
+QuickTask is a **React Native app** for task management with a news feed. Users can create, edit, and delete tasks, set reminders using local notifications, and view news from NewsAPI. Tasks persist locally using AsyncStorage.
 
 ---
 
@@ -29,7 +29,7 @@ QuickTask is a **React Native CLI app** for task management with a news feed. Us
 
 - React Native + TypeScript
 - Redux Toolkit
-- React Navigation (Native Stack + Bottom Tabs)
+- React Navigation
 - AsyncStorage
 - `expo-push-notification`
 
@@ -95,4 +95,30 @@ open ios/QuickTask.xcworkspace
 4. Build the app:
 
    - **Simulator:** Press Run (▶) in Xcode
-   - **Physical device:** Press Run (▶) and ensure your device is trusted
+   - **Physical device:** Press Run (▶) and ensure your device is trusted.
+
+---
+
+## Project Structure Overview
+
+```
+TaskManagement/
+├── android/                 # Native Android project files
+├── ios/                     # Native iOS project files
+├── src/
+│   ├── components/          # Reusable UI components
+│   ├── screens/             # Screens (Tasks, News, Profile)
+│   ├── redux/               # Redux slices, store setup
+│   ├── utils/               # Helper functions and constants
+│   ├── routes/          # Stack and Tab navigators
+|   |── types/               #
+│   └── Context/             # Theme and other contexts
+├── App.tsx                  # Root component
+├── package.json             # Dependencies and scripts
+└── README.md                # Project documentation
+```
+
+---
+
+**Developed by MD Mehedi Hasan**
+📧 [mehedihasanrimon01@gmail.com](mailto:mehedihasanrimon01@gmail.com)
