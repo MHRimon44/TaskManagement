@@ -1,0 +1,218 @@
+[
+  {
+    "title": "III% (Three Percenters)",
+    "image": "three_percenters.png",
+    "category": "Right Wing",
+    "subcategory": "Anti-Government",
+    "risk": "HIGH",
+    "color": "#FF0000",
+    "lastUpdated": "2024-01-12",
+    "description": "Anti-government militia movement symbol. Represents the 'three percent' who would resist tyranny.",
+    "historicalContext": "Based on the myth that only 3% of American colonists actively fought in the Revolutionary War.",
+    "cooptation": "Used by anti-government and militia groups to justify armed resistance against perceived government overreach.",
+    "commonUses": ["Flags", "Clothing", "Social media", "Vehicle decals"],
+    "relatedSymbols": ["Gadsden Flag", "Don't Tread on Me", "Molon Labe"],
+    "contextGuidance": {
+      "context": "Often seen on flags, clothing, and social media. Associated with anti-government and militia groups.",
+      "guidance": "Assess context carefully. May indicate anti-government sentiment or potential for violence."
+    }
+  },
+  {
+    "title": "Black Sun (Sonnenrad)",
+    "image": "black_sun.png",
+    "category": "White Supremacy",
+    "subcategory": "Nazi Symbol",
+    "risk": "CRITICAL",
+    "color": "#8B0000",
+    "lastUpdated": "2024-02-10",
+    "description": "Nazi symbol consisting of twelve radial sig runes. Used by white supremacist groups.",
+    "historicalContext": "Originally a Nazi occult symbol adopted by the SS and used in modern neo-Nazi ideology.",
+    "cooptation": "Common in white supremacist art, tattoos, and flags.",
+    "commonUses": ["Tattoos", "Flags", "Propaganda posters"],
+    "relatedSymbols": ["Swastika", "Odal Rune"],
+    "contextGuidance": {
+      "context": "Used globally by white supremacist movements. Often paired with other hate symbols.",
+      "guidance": "Strongly associated with neo-Nazi ideology. Treat with high concern."
+    }
+  },
+  {
+    "title": "Odal / Othala Rune",
+    "image": "odal_rune.png",
+    "category": "White Supremacy",
+    "subcategory": "Nordic Symbolism",
+    "risk": "HIGH",
+    "color": "#FF0000",
+    "lastUpdated": "2024-01-28",
+    "description": "Norse rune symbol used by white supremacist groups. Represents heritage and bloodline.",
+    "historicalContext": "An ancient rune repurposed by Nazi Germany and modern hate groups.",
+    "cooptation": "Used in racist and nationalist iconography.",
+    "commonUses": ["Patches", "Banners", "Web graphics"],
+    "relatedSymbols": ["Black Sun", "Tiwaz Rune"],
+    "contextGuidance": {
+      "context": "May be used innocently in pagan contexts, but often tied to extremist groups.",
+      "guidance": "Analyze usage carefully. Look for context clues or group affiliation."
+    }
+  },
+  {
+    "title": "Boogaloo (Igloo / Hawaiian)",
+    "image": "boogaloo.png",
+    "category": "Right Wing",
+    "subcategory": "Accelerationist",
+    "risk": "CRITICAL",
+    "color": "#8B0000",
+    "lastUpdated": "2024-03-05",
+    "description": "Meme-based movement calling for civil war or violent uprising against the government.",
+    "historicalContext": "Originated from internet forums promoting violent resistance.",
+    "cooptation": "Adopted by extremists using Hawaiian shirts and igloo imagery.",
+    "commonUses": ["Memes", "Clothing", "Social media profiles"],
+    "relatedSymbols": ["III%", "Gadsden Flag"],
+    "contextGuidance": {
+      "context": "Often disguised as satire or humor. Look for coded language.",
+      "guidance": "Treat with high caution, especially when linked with weapons or violence references."
+    }
+  },
+  {
+    "title": "1488",
+    "image": "1488.png",
+    "category": "White Supremacy",
+    "subcategory": "Numerical Hate Code",
+    "risk": "CRITICAL",
+    "color": "#8B0000",
+    "lastUpdated": "2024-02-01",
+    "description": "Numerical code representing '14 Words' and 'Heil Hitler'. Widely used by white supremacists.",
+    "historicalContext": "Created by David Lane, a white supremacist terrorist.",
+    "cooptation": "Used in graffiti, tattoos, and usernames.",
+    "commonUses": ["Tattoos", "Online handles", "Graffiti"],
+    "relatedSymbols": ["88", "14", "Swastika"],
+    "contextGuidance": {
+      "context": "Almost exclusively a hate symbol when used together.",
+      "guidance": "Take seriously. Typically indicates explicit white supremacist belief."
+    }
+  },
+  {
+    "title": "Swastika",
+    "image": "swastika.png",
+    "category": "White Supremacy",
+    "subcategory": "Nazi Symbol",
+    "risk": "CRITICAL",
+    "color": "#8B0000",
+    "lastUpdated": "2024-01-01",
+    "description": "Most widely recognized Nazi symbol. Represents Aryan identity and Nazi ideology.",
+    "historicalContext": "Ancient symbol misappropriated by Nazi Germany in the 1930s.",
+    "cooptation": "Used by neo-Nazi and fascist groups worldwide.",
+    "commonUses": ["Flags", "Graffiti", "Tattoo art"],
+    "relatedSymbols": ["Black Sun", "88", "1488"],
+    "contextGuidance": {
+      "context": "Context is crucial. In Western contexts, usually a hate symbol.",
+      "guidance": "Treat with extreme caution. Rarely used outside of hate contexts in the West."
+    }
+  },
+  {
+    "title": "Molon Labe",
+    "image": "molon_labe.png",
+    "category": "Right Wing",
+    "subcategory": "Pro-Gun Rights",
+    "risk": "MEDIUM",
+    "color": "#FFA500",
+    "lastUpdated": "2024-04-01",
+    "description": "Ancient Greek phrase meaning 'Come and take [them]'. Used by gun rights advocates.",
+    "historicalContext": "Phrase attributed to King Leonidas at the Battle of Thermopylae.",
+    "cooptation": "Used by pro-gun and militia movements as defiance against gun control.",
+    "commonUses": ["Clothing", "Stickers", "Flags"],
+    "relatedSymbols": ["Gadsden Flag", "III%"],
+    "contextGuidance": {
+      "context": "May be used non-violently, but often tied to extreme resistance to authority.",
+      "guidance": "Consider alongside other symbols and context."
+    }
+  },
+  {
+    "title": "Gadsden Flag",
+    "image": "gadsden_flag.png",
+    "category": "Right Wing",
+    "subcategory": "Libertarian / Militia",
+    "risk": "MEDIUM",
+    "color": "#FFA500",
+    "lastUpdated": "2024-04-20",
+    "description": "Yellow flag with coiled snake and 'Don't Tread on Me'. Originally a symbol of American liberty.",
+    "historicalContext": "Used during the American Revolution. Re-emerged in libertarian and far-right movements.",
+    "cooptation": "Used by militia groups, anti-government protests.",
+    "commonUses": ["Flags", "T-shirts", "Protests"],
+    "relatedSymbols": ["Molon Labe", "III%", "Don't Tread on Me"],
+    "contextGuidance": {
+      "context": "May be used innocently or with extremist undertones.",
+      "guidance": "Assess intent, especially in group settings or rallies."
+    }
+  },
+  {
+    "title": "Tiwaz Rune",
+    "image": "tiwaz_rune.png",
+    "category": "White Supremacy",
+    "subcategory": "Nordic Symbolism",
+    "risk": "HIGH",
+    "color": "#FF0000",
+    "lastUpdated": "2024-03-15",
+    "description": "Norse rune associated with the god Tyr. Misused by Nazi Germany and far-right groups.",
+    "historicalContext": "Originally symbolized justice and war in Norse mythology.",
+    "cooptation": "Adopted by SS training schools and neo-Nazi groups.",
+    "commonUses": ["Tattoos", "Runic texts", "Flags"],
+    "relatedSymbols": ["Odal Rune", "Black Sun"],
+    "contextGuidance": {
+      "context": "Used in pagan spirituality, but context matters.",
+      "guidance": "Look for affiliations and co-occurring symbols."
+    }
+  },
+  {
+    "title": "Don't Tread on Me",
+    "image": "dont_tread_on_me.png",
+    "category": "Right Wing",
+    "subcategory": "Libertarian / Militia",
+    "risk": "LOW",
+    "color": "#FFFF00",
+    "lastUpdated": "2024-05-01",
+    "description": "Popular motto from the American Revolution. Signifies defiance against perceived tyranny.",
+    "historicalContext": "Associated with early American independence. Re-adopted by modern libertarian and right-wing movements.",
+    "cooptation": "Used by militia groups and protesters.",
+    "commonUses": ["Flags", "Clothing", "Social media"],
+    "relatedSymbols": ["Gadsden Flag", "Molon Labe"],
+    "contextGuidance": {
+      "context": "Can be benign or extreme depending on usage.",
+      "guidance": "Use context to determine risk — especially when combined with other symbols."
+    }
+  },
+  {
+    "title": "88",
+    "image": "default_symbol.png",
+    "category": "White Supremacy",
+    "subcategory": "Numerical Hate Code",
+    "risk": "CRITICAL",
+    "color": "#8B0000",
+    "lastUpdated": "2024-06-10",
+    "description": "'88' is a coded reference to 'Heil Hitler' (H = 8th letter of the alphabet).",
+    "historicalContext": "Used in Nazi Germany and revived by neo-Nazi and white supremacist groups.",
+    "cooptation": "Frequently seen in usernames, graffiti, and tattoos.",
+    "commonUses": ["Graffiti", "Social handles", "Clothing"],
+    "relatedSymbols": ["1488", "14", "Swastika"],
+    "contextGuidance": {
+      "context": "Rarely used outside hate contexts. Often hidden in usernames or tattoos.",
+      "guidance": "High concern when seen with other hate symbols."
+    }
+  },
+  {
+    "title": "14 Words",
+    "image": "default_symbol.png",
+    "category": "White Supremacy",
+    "subcategory": "Slogans",
+    "risk": "CRITICAL",
+    "color": "#8B0000",
+    "lastUpdated": "2024-06-12",
+    "description": "A white supremacist slogan: 'We must secure the existence of our people and a future for white children.'",
+    "historicalContext": "Coined by David Lane, a convicted white supremacist terrorist.",
+    "cooptation": "Used in writings, forums, tattoos, and propaganda.",
+    "commonUses": ["Graffiti", "Tattoos", "Posters"],
+    "relatedSymbols": ["1488", "88"],
+    "contextGuidance": {
+      "context": "Clearly linked to white supremacist ideology. Rarely ambiguous.",
+      "guidance": "Flag immediately if present. Strong indicator of extremist beliefs."
+    }
+  }
+]

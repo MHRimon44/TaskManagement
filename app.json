@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Task Manager",
+    "slug": "task-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.taskManager",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "versionCode": 1,
+      "useNextNotificationsApi": true,
+
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.taskManager"
+    },
+    "web": {
+      "favicon": "./assets/icon.jpg"
+    },
+
+    "plugins": [
+      "expo-localization",
+      "expo-font",
+      "expo-router",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.jpg",
+          "color": "#ffffff"
+        }
+      ]
+    ],
+
+    "extra": {
+      "eas": {}
+    }
+  }
+}
