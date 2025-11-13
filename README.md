@@ -1,7 +1,7 @@
 # QuickTask App
 
-**Author:** MD Mehedi Hasan  
-**Contact:** mehedihasanrimon01@gmail.com
+**Author:** MD Mehedi Hasan
+**Contact:** [mehedihasanrimon01@gmail.com](mailto:mehedihasanrimon01@gmail.com)
 
 ---
 
@@ -31,7 +31,7 @@ QuickTask is a **React Native CLI app** for task management with a news feed. Us
 - Redux Toolkit
 - React Navigation (Native Stack + Bottom Tabs)
 - AsyncStorage
-- `react-native-push-notification`
+- `expo-push-notification`
 
 ---
 
@@ -43,45 +43,56 @@ QuickTask is a **React Native CLI app** for task management with a news feed. Us
 yarn install
 # or
 npm install
-2. Prebuild Native Folders
-bash
-Copy code
+```
+
+### 2. Prebuild Native Folders
+
+```bash
 npx expo prebuild
-3. Running Locally
-Android (USB connected device)
-bash
-Copy code
+```
+
+### 3. Running Locally
+
+#### Android (USB connected device)
+
+```bash
 npx expo run:android
-Both Android/iOS (using Expo Go)
-bash
-Copy code
+```
+
+#### Both Android/iOS (using Expo Go)
+
+```bash
 npx expo start
-Install Expo Go on your Android/iOS device.
+```
 
-Scan the QR code to run the app.
+- Install **Expo Go** on your Android/iOS device.
+- Scan the QR code to run the app.
 
-Build
-Android (APK)
-bash
-Copy code
+---
+
+## Build
+
+### Android (APK)
+
+```bash
 cd android
 ./gradlew assembleRelease
-Output APK will be in android/app/build/outputs/apk/release/app-release.apk.
+```
 
-iOS (Xcode)
-Open the iOS project in Xcode:
+- Output APK will be in `android/app/build/outputs/apk/release/app-release.apk`.
 
-bash
-Copy code
+### iOS (Xcode)
+
+1. Open the iOS project in Xcode:
+
+```bash
 npx expo prebuild
 open ios/QuickTask.xcworkspace
-Select your target device (simulator or connected iPhone).
-
-Go to Signing & Capabilities → ensure your Apple ID is selected and a valid provisioning profile is used.
-
-Build the app:
-
-Simulator: Press Run (▶) in Xcode
-
-Physical device: Press Run (▶) and ensure your device is trusted
 ```
+
+2. Select your **target device** (simulator or connected iPhone).
+3. Go to **Signing & Capabilities** → ensure your Apple ID is selected and a valid provisioning profile is used.
+4. Build the app:
+
+   - **Simulator:** Press Run (▶) in Xcode
+   - **Physical device:** Press Run (▶) and ensure your device is trusted
